@@ -8,7 +8,7 @@ To scrape some text, namely the book title, from the webpage, and print it
 import urllib2
 from bs4 import BeautifulSoup
 import telebot
-import sys
+
 
 class Client(object):
     #get web
